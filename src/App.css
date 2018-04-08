@@ -1,4 +1,6 @@
-/* pages/2048/2048.wxss */
+body {
+  margin: 0;
+}
 .container {
   color: #776e65;
   background-color: #faf8ee;
